@@ -2,6 +2,8 @@
 const database = [
   {
     username: "Bang syaii",
-    ip: '64.227.159.73'
+    ip: '64.227.159.73',
+    username: "Sanz",
+    ip: "152.42.192.74"
   }
 ];    
